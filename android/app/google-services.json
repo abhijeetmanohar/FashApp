@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671071341160",
+    "firebase_url": "https://fashapp-a08b4.firebaseio.com",
+    "project_id": "fashapp-a08b4",
+    "storage_bucket": "fashapp-a08b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671071341160:android:603a1a881a5db69b7649dd",
+        "android_client_info": {
+          "package_name": "com.example.fash_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671071341160-usrl5o1octh2cgpp7ms37rld4rql5hb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fash_app",
+            "certificate_hash": "72105f8bbb26fe05de30bd1686bdaf310f8aec7f"
+          }
+        },
+        {
+          "client_id": "671071341160-21m26731fmun7e28lofo0fjlgf756894.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXfX4czN-OsMqpH4wCn2uSKJn5q7QKrg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671071341160-21m26731fmun7e28lofo0fjlgf756894.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671071341160-vofbq261om4tln3n6cfj9t2gva7sc663.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.domainname.fashapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
